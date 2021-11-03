@@ -1,6 +1,7 @@
 # UpNgrok
-Instala La versión de ngrok más reciente </br>
+Instala La versión de Ngrok más reciente </br>
 En tu terminal </br>
+![Image text](https://github.com/UserM01000/UpNgrok/blob/main/20211102_234703.jpg)
 </br>
 ![Tested]
 # Instalación 
