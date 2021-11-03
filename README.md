@@ -10,7 +10,7 @@ En tu terminal </br>
 * `./UpNgrok.sh`
 * `Listo, con eso ya está :D`
 
-# Código Open Source!
+# Open Source!
 ----
 Si tienes Dudas, problemas o Criticas </br>
 Házmelo saber, con gusto te respondo :D
