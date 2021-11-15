@@ -15,7 +15,7 @@ En tu terminal </br>
 Si tienes Dudas, problemas o Criticas </br>
 Házmelo saber, con gusto te respondo :D
 </br>
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000)
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
 ----
 <!---->
 [tested]:https://img.shields.io/badge/Tested%3A-%20Termux-blue
